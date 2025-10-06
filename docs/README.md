@@ -107,3 +107,6 @@ This AI service helps automate research summarization, enhances data analysis, a
 // Provides intelligent answers, data analysis, and contextual insights for community questions
 // using Google Gemini AI. Includes natural language understanding, sentiment detection, and
 // auto-tagging to enhance environmental discussions and improve user engagement.
+
+🏆 NASA Space Apps Challenge 2025
+This project was developed for the NASA Space Apps Challenge 2025.
